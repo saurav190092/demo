@@ -3,7 +3,6 @@
     { "id": 1, "title": "Post 1dsfsd dfs" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" },
-    {"id":4,"title":"flower"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
